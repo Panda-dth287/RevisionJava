@@ -1,0 +1,3 @@
+[Sinh vien dao tao chinh quy] Ma sinh vien: sv01, Ho ten: do trung hieu, Diem GPA: 3.80
+[Sinh vien Vien dao tao chat luong cao] Ma sinh vien: sv02, Ho ten: tran trong khach, Diem GPA: 3.65, diem ky bang: 9.00
+[Sinh vien dao tao chinh quy] Ma sinh vien: sv03, Ho ten: do minh quan, Diem GPA: 3.20
